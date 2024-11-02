@@ -1,0 +1,831 @@
+[
+  {
+    "title": "Fictions",
+    "author": "Jorge Luis Borges, Andrew Hurley (translator)",
+    "read": {
+      "start": "2024-09-26"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390169517i/20579877.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Les royaumes du Nord",
+    "author": "Philip Pullman",
+    "read": {
+      "start": "2024-09-26"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1538267774i/42099251.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "The New Designer: Rejecting Myths, Embracing Change",
+    "author": "Manuel Lima",
+    "read": {
+      "start": "2024-10-30"
+    },
+    "tags": ["Non fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1663708617i/61896843.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Future Ethics",
+    "author": "Cennydd Bowles",
+    "read": {
+      "start": "2024-10-23",
+      "end": "2024-10-22"
+    },
+    "tags": ["Non fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1537730826i/41975945.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "The Coming Wave",
+    "author": "Mustafa Suleyman, Michael Bhaskar",
+    "read": {
+      "start": "2024-10-08",
+      "end": "2024-10-17"
+    },
+    "tags": ["Non fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687047419i/81071853.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Machine Readable Me: The Hidden Ways Tech Shapes our Identities",
+    "author": "Zara Rahman",
+    "read": {
+      "start": "2024-10-08",
+      "end": "2024-10-08"
+    },
+    "tags": ["Non fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1683560222i/123159633.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Nexus: A Brief History of Information Networks from the Stone Age to AI",
+    "author": "Yuval Noah Harari",
+    "read": {
+      "start": "2024-09-26",
+      "end": "2024-10-03"
+    },
+    "tags": ["Non fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1709986452i/204927599.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Kaikeyi",
+    "author": "Vaishnavi Patel",
+    "read": {
+      "start": "2024-09-11",
+      "end": "2024-09-23"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1673874081i/60382830.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Thinking, Fast and Slow",
+    "author": "Daniel Kahneman",
+    "read": {
+      "start": "2024-06-24",
+      "end": "2024-09-09"
+    },
+    "tags": ["Non fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1317793965i/11468377.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "The Word for World is Forest",
+    "author": "Ursula K. Le Guin",
+    "read": {
+      "start": "2024-08-23",
+      "end": "2024-09-03"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1679345609i/123282857.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "They Fell Like Stars from the Sky & Other Stories",
+    "author": "Sheikha Helawy, Nancy Roberts (Translator), Anna Morrison (Illustrator)",
+    "read": {
+      "start": "2024-08-23",
+      "end": "2024-08-29"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1689431754i/190331951.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Queenie",
+    "author": "Candice Carty-Williams",
+    "read": {
+      "start": "2024-08-14",
+      "end": "2024-08-15"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582303112i/51524361.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Death's End",
+    "author": "Liu Cixin, Ken Liu (Translator)",
+    "read": {
+      "start": "2024-07-26",
+      "end": "2024-08-10"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1430330507i/25451264.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "The Left Hand of Darkness",
+    "author": "Ursula K. Le Guin",
+    "read": {
+      "start": "2024-07-16",
+      "end": "2024-07-22"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1537725364i/41829599.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "The Ocean at the End of the Lane",
+    "author": "Neil Gaiman",
+    "read": {
+      "start": "2024-07-13",
+      "end": "2024-07-14"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1606857588i/56132017.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Circe",
+    "author": "Madeline Miller",
+    "read": {
+      "start": "2024-07-11",
+      "end": "2024-07-12"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1565909496i/35959740.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Death on the Nile",
+    "author": "Agatha Christie",
+    "read": {
+      "start": "2024-06-23",
+      "end": "2024-06-25"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1720471246i/23018776.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Piranesi",
+    "author": "Susanna Clarke",
+    "read": {
+      "start": "2024-06-21",
+      "end": "2024-06-22"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1580947508i/48496334.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "The Covenant of Water",
+    "author": "Abraham Verghese",
+    "read": {
+      "start": "2024-06-05",
+      "end": "2024-06-20"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1687600746i/180357146.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Conversational Design",
+    "author": "Erika Hall, John Maeda (Foreword)",
+    "read": {
+      "start": "2024-06-12",
+      "end": "2024-06-14"
+    },
+    "tags": ["Non fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1517950253i/38393096.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Tomorrow, and Tomorrow, and Tomorrow",
+    "author": "Gabrielle Zevin",
+    "read": {
+      "start": "2024-05-29",
+      "end": "2024-05-30"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1636978687i/58784475.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "More than a Glitch: Confronting Race, Gender, and Ability Bias in Tech",
+    "author": "Meredith Broussard",
+    "read": {
+      "start": "2024-05-23",
+      "end": "2024-05-27"
+    },
+    "tags": ["Non fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1659415396i/61319931.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "The God of Small Things",
+    "author": "Arundhati Roy",
+    "read": {
+      "start": "2024-05-05",
+      "end": "2024-05-22"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1626497452i/58571622.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Belonging: The Key to Transforming and Maintaining Diversity, Inclusion and Equality at Work",
+    "author": "Sue Unerman, Kathryn Jacob, Mark Edwards",
+    "read": {
+      "start": "2024-05-08",
+      "end": "2024-05-20"
+    },
+    "tags": ["Non fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1635840904i/58624101.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "New Dark Age: Technology and the End of the Future",
+    "author": "James Bridle",
+    "read": {
+      "start": "2024-04-13",
+      "end": "2024-04-28"
+    },
+    "tags": ["Non fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1553585900i/42063533.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Americanah",
+    "author": "Chimamanda Ngozi Adichie",
+    "read": {
+      "start": "2024-04-26",
+      "end": "2024-04-26"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1497706599i/35451545.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Girl, Woman, Other",
+    "author": "Bernardine Evaristo",
+    "read": {
+      "start": "2024-04-12",
+      "end": "2024-04-21"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1582798225i/49933606.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Glitch Feminism: A Manifesto",
+    "author": "Legacy Russell",
+    "read": {
+      "start": "2024-04-05",
+      "end": "2024-04-10"
+    },
+    "tags": ["Non fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1584338673i/52411999.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Positive Computing: Technology for Wellbeing and Human Potential",
+    "author": "Rafael A. Calvo, Dorian Peters",
+    "read": {
+      "start": "2024-03-22",
+      "end": "2024-04-05"
+    },
+    "tags": ["Non fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1415588200i/22104595.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Le Petit Prince",
+    "author": "Antoine de Saint-Exupéry",
+    "read": {
+      "start": "2024-03-30",
+      "end": "2024-04-01"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1324199942i/70720.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "read": {
+      "start": "2024-04-01",
+      "end": "2024-04-01"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1654371463i/18144590.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Collected Stories",
+    "author": "Gabriel García Márquez, Gregory Rabassa (Translator), J.S. Bernstein (Translator)",
+    "read": {
+      "start": "2024-03-07",
+      "end": "2024-03-30"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1445081294i/18367219.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "The Dark Forest",
+    "author": "Liu Cixin, Joel Martinsen (Translator)",
+    "read": {
+      "start": "2024-03-20",
+      "end": "2024-03-22"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1454880648i/26114141.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "The Three-Body Problem",
+    "author": "Liu Cixin, Ken Liu (Translator)",
+    "read": {
+      "start": "2024-03-09",
+      "end": "2024-03-17"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1447621063i/25597060.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Not the End of the World: How We Can Be the First Generation to Build a Sustainable Planet",
+    "author": "Hannah Ritchie",
+    "read": {
+      "start": "2024-03-07",
+      "end": "2024-03-09"
+    },
+    "tags": ["Non fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1690311764i/145624737.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Animal Farm",
+    "author": "George Orwell",
+    "read": {
+      "start": "2024-03-06",
+      "end": "2024-03-06"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1299097929i/3149348.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "The Remains of the Day",
+    "author": "Kazuo Ishiguro",
+    "read": {
+      "start": "2024-03-02",
+      "end": "2024-03-04"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1343781429i/7644893.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez, Gregory Rabassa (Translator)",
+    "read": {
+      "start": "2024-02-26",
+      "end": "2024-03-01"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1402721499i/22467482.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Ways of Seeing",
+    "author": "John Berger",
+    "read": {
+      "start": "2024-02-23",
+      "end": "2024-02-26"
+    },
+    "tags": ["Non fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1703328414i/2784.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Ways of Being: Beyond Human Intelligence",
+    "author": "James Bridle",
+    "read": {
+      "start": "2024-02-11",
+      "end": "2024-02-22"
+    },
+    "tags": ["Non fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1649672867i/60791801.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "The Midnight Library",
+    "author": "Matt Haig",
+    "read": {
+      "start": "2024-02-16",
+      "end": "2024-02-17"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1596399616i/54789601.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Orlando",
+    "author": "Virginia Woolf",
+    "read": {
+      "start": "2024-02-08",
+      "end": "2024-02-11"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1646584929i/28501521.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Babel",
+    "author": "R.F. Kuang",
+    "read": {
+      "start": "2024-02-03",
+      "end": "2024-02-06"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1694634053i/134915247.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Decolonizing Design: A Cultural Justice Guidebook",
+    "author": "Elizabeth (Dori) Tunstall, Ene Agi (Illustrator)",
+    "read": {
+      "start": "2024-01-30",
+      "end": "2024-02-01"
+    },
+    "tags": ["Non fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1655070823i/61150879.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "The Dispossessed",
+    "author": "Ursula K. Le Guin",
+    "read": {
+      "start": "2024-01-26",
+      "end": "2024-01-29"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1357434680i/756970.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "A Room with a View",
+    "author": "E.M. Forster",
+    "read": {
+      "start": "2024-01-13",
+      "end": "2024-01-20"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1342179972i/6092711.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Nineteen Eighty-Four",
+    "author": "George Orwell",
+    "read": {
+      "start": "2024-01-07",
+      "end": "2024-01-12"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611864438i/50674141.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "The Handmaid's Tale",
+    "author": "Margaret Atwood",
+    "read": {
+      "start": "2024-01-05",
+      "end": "2024-01-07"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1406642875i/820689.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Conversations with Friends",
+    "author": "Sally Rooney",
+    "read": {
+      "start": "2024-01-02",
+      "end": "2024-01-02"
+    },
+    "tags": [""],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1725720901i/35285193.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "The Humans",
+    "author": "Matt Haig",
+    "read": {
+      "start": "2024-01-01",
+      "end": "2024-01-01"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1394426213i/21265230.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Catch-22",
+    "author": "Joseph Heller",
+    "read": {
+      "start": "2023-12-30",
+      "end": "2023-12-31"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1359941223i/17313770.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Remarkably Bright Creatures",
+    "author": "Shelby Van Pelt",
+    "read": {
+      "start": "2023-12-28",
+      "end": "2023-12-28"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1651600548i/58733693.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "The Earthsea Quartet",
+    "author": "Ursula K. Le Guin",
+    "read": {
+      "start": "2023-10-20",
+      "end": "2023-12-26"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1428677142i/854854.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "A Room of One's Own",
+    "author": "Virginia Woolf",
+    "read": {
+      "start": "2023-12-18",
+      "end": "2023-12-25"
+    },
+    "tags": ["Non fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1440082020i/292570.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Snow Country",
+    "author": "Yasunari Kawabata, Edward G. Seidensticker (Translator)",
+    "read": {
+      "start": "2023-08-27",
+      "end": "2023-12-25"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1579982486i/14028.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Lessons in Chemistry",
+    "author": "Bonnie Garmus",
+    "read": {
+      "start": "2023-12-22",
+      "end": "2023-12-22"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1714630953i/206305528.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Exhalation",
+    "author": "Ted Chiang",
+    "read": {
+      "start": "2023-12-06",
+      "end": "2023-12-18"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1534388394i/41160292.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Gaia",
+    "author": "James E. Lovelock",
+    "read": {
+      "start": "2023-11-24",
+      "end": "2023-12-03"
+    },
+    "tags": ["Non fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1611255936i/56775606.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Ariadne",
+    "author": "Jennifer Saint",
+    "read": {
+      "start": "2023-11-02",
+      "end": "2023-11-24"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1601959039i/54860614.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "The Boy, The Mole, The Fox and The Horse",
+    "author": "Charlie Mackesy",
+    "read": {
+      "start": "2023-10-29",
+      "end": "2023-10-29"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1605831528i/55151207.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Murder on the Orient Express",
+    "author": "Agatha Christie",
+    "read": {
+      "start": "2023-09-24",
+      "end": "2023-10-15"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1486131451i/853510.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "The Song of Achilles",
+    "author": "Madeline Miller",
+    "read": {
+      "start": "2023-06-28",
+      "end": "2023-06-28"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1357177533i/13623848.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Pachinko",
+    "author": "Min Jin Lee",
+    "read": {
+      "start": "2023-06-24",
+      "end": "2023-06-27"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1529845599i/34051011.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "The Island of Missing Trees",
+    "author": "Elif Shafak",
+    "read": {
+      "start": "2023-05-31",
+      "end": "2023-06-10"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1620048257i/56587382.jpg"
+    },
+    "url": ""
+  }
+]
