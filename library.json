@@ -1,13 +1,13 @@
 [
   {
-    "title": "Fictions",
-    "author": "Jorge Luis Borges, Andrew Hurley (translator)",
+    "title": "The Secret History",
+    "author": "Donna Tartt",
     "read": {
-      "start": "2024-09-26"
+      "start": "2024-10-30"
     },
     "tags": ["Fiction"],
     "cover": {
-      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390169517i/20579877.jpg"
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1430768634i/70897.jpg"
     },
     "url": ""
   },
@@ -24,10 +24,24 @@
     "url": ""
   },
   {
+    "title": "Fictions",
+    "author": "Jorge Luis Borges, Andrew Hurley (translator)",
+    "read": {
+      "start": "2024-09-26",
+      "end": "2024-11-16"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1390169517i/20579877.jpg"
+    },
+    "url": ""
+  },
+  {
     "title": "The New Designer: Rejecting Myths, Embracing Change",
     "author": "Manuel Lima",
     "read": {
-      "start": "2024-10-30"
+      "start": "2024-10-30",
+      "end": "2024-10-30"
     },
     "tags": ["Non fiction"],
     "cover": {
