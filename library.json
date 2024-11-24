@@ -24,6 +24,19 @@
     "url": ""
   },
   {
+    "title": "The Sea Close By",
+    "author": "Albert Camus",
+    "read": {
+      "start": "2024-11-24",
+      "end": "2024-11-24"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1375559280i/18280949.jpg"
+    },
+    "url": ""
+  },
+  {
     "title": "Fictions",
     "author": "Jorge Luis Borges, Andrew Hurley (translator)",
     "read": {
