@@ -1,13 +1,13 @@
 [
   {
-    "title": "The Secret History",
-    "author": "Donna Tartt",
+    "title": "Purple Hibiscus",
+    "author": "Chimamanda Ngozi Adichie",
     "read": {
-      "start": "2024-10-30"
+      "start": "2025-02-16"
     },
     "tags": ["Fiction"],
     "cover": {
-      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1430768634i/70897.jpg"
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1514778658i/37785879.jpg"
     },
     "url": ""
   },
@@ -20,6 +20,19 @@
     "tags": ["Fiction"],
     "cover": {
       "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1538267774i/42099251.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "The Secret History",
+    "author": "Donna Tartt",
+    "read": {
+      "start": "2024-10-30",
+      "end": "2025-02-13"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1430768634i/70897.jpg"
     },
     "url": ""
   },
