@@ -1,13 +1,13 @@
 [
   {
-    "title": "Purple Hibiscus",
-    "author": "Chimamanda Ngozi Adichie",
+    "title": "The Paper Menagerie and Other Stories",
+    "author": "Ken Liu",
     "read": {
-      "start": "2025-02-16"
+      "start": "2025-03-05"
     },
     "tags": ["Fiction"],
     "cover": {
-      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1514778658i/37785879.jpg"
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1511290092i/24885533.jpg"
     },
     "url": ""
   },
@@ -20,6 +20,19 @@
     "tags": ["Fiction"],
     "cover": {
       "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1538267774i/42099251.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Purple Hibiscus",
+    "author": "Chimamanda Ngozi Adichie",
+    "read": {
+      "start": "2025-02-16",
+      "end": "2025-03-04"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1514778658i/37785879.jpg"
     },
     "url": ""
   },
