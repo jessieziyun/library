@@ -1,13 +1,13 @@
 [
   {
-    "title": "The Paper Menagerie and Other Stories",
-    "author": "Ken Liu",
+    "title": "Mood Indigo",
+    "author": "Boris Vian",
     "read": {
-      "start": "2025-03-05"
+      "start": "2025-04-09"
     },
     "tags": ["Fiction"],
     "cover": {
-      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1511290092i/24885533.jpg"
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1711031879i/210230586.jpg"
     },
     "url": ""
   },
@@ -20,6 +20,19 @@
     "tags": ["Fiction"],
     "cover": {
       "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1538267774i/42099251.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "The Paper Menagerie and Other Stories",
+    "author": "Ken Liu",
+    "read": {
+      "start": "2025-03-05",
+      "end": "2025-04-09"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1511290092i/24885533.jpg"
     },
     "url": ""
   },
