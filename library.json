@@ -1,13 +1,13 @@
 [
   {
-    "title": "Mood Indigo",
-    "author": "Boris Vian",
+    "title": "Never Let Me Go",
+    "author": "Kazuo Ishiguro",
     "read": {
-      "start": "2025-04-09"
+      "start": "2025-04-20"
     },
     "tags": ["Fiction"],
     "cover": {
-      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1711031879i/210230586.jpg"
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1738251909i/58188.jpg"
     },
     "url": ""
   },
@@ -20,6 +20,19 @@
     "tags": ["Fiction"],
     "cover": {
       "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1538267774i/42099251.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Mood Indigo",
+    "author": "Boris Vian",
+    "read": {
+      "start": "2025-04-09",
+      "end": "2025-04-20"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1711031879i/210230586.jpg"
     },
     "url": ""
   },
