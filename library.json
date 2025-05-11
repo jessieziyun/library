@@ -1,17 +1,5 @@
 [
   {
-    "title": "Never Let Me Go",
-    "author": "Kazuo Ishiguro",
-    "read": {
-      "start": "2025-04-20"
-    },
-    "tags": ["Fiction"],
-    "cover": {
-      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1738251909i/58188.jpg"
-    },
-    "url": ""
-  },
-  {
     "title": "Les royaumes du Nord",
     "author": "Philip Pullman",
     "read": {
@@ -20,6 +8,32 @@
     "tags": ["Fiction"],
     "cover": {
       "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1538267774i/42099251.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Mornings in Jenin",
+    "author": "Susan Abulhawa",
+    "read": {
+      "start": "2025-05-01",
+      "end": "2025-05-11"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1328011489i/9394254.jpg"
+    },
+    "url": ""
+  },
+  {
+    "title": "Never Let Me Go",
+    "author": "Kazuo Ishiguro",
+    "read": {
+      "start": "2025-04-20",
+      "end": "2025-05-01"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1738251909i/58188.jpg"
     },
     "url": ""
   },
