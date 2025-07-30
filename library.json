@@ -1,5 +1,17 @@
 [
   {
+    "title": "Butter",
+    "author": "Asako Yuzuki",
+    "read": {
+      "start": "2025-07-10"
+    },
+    "tags": ["Fiction"],
+    "cover": {
+      "path": "https://images-na.ssl-images-amazon.com/images/S/compressed.photo.goodreads.com/books/1710958219i/209220917.jpg"
+    },
+    "url": ""
+  },
+  {
     "title": "Les royaumes du Nord",
     "author": "Philip Pullman",
     "read": {
